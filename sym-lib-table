@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "risetRadar")(type "KiCad")(uri "${KIPRJMOD}/risetRadar.kicad_sym")(options "")(descr ""))
+)

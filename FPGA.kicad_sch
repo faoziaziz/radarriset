@@ -1,0 +1,260 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "ebeac2ec-aaa1-4bbb-b6ee-1afa4b881c11")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 137.16 33.02)
+		(size 25.4 34.29)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "25e20b51-3c99-4101-a6be-5d5adfd66953")
+		(property "Sheetname" "FPGAIO2"
+			(at 137.16 32.3084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "FPGAIO2.kicad_sch"
+			(at 137.16 67.8946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "risetRadar"
+				(path "/de705012-f0fb-4b23-929c-98742aa6def5/9ebb199d-5c8b-41dd-b601-8f5ebc1c419e"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 54.61 86.36)
+		(size 43.18 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4ea0d964-38f4-43c0-ba12-2e253eadf8ce")
+		(property "Sheetname" "pmic"
+			(at 54.61 85.6484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pmic.kicad_sch"
+			(at 54.61 109.8046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "risetRadar"
+				(path "/de705012-f0fb-4b23-929c-98742aa6def5/9ebb199d-5c8b-41dd-b601-8f5ebc1c419e"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 186.69 34.29)
+		(size 34.29 34.29)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8d1bc322-56c2-4f46-8b3c-73d9b1dca5fb")
+		(property "Sheetname" "FGPA_config"
+			(at 186.69 33.5784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "FPGA_config.kicad_sch"
+			(at 186.69 69.1646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "risetRadar"
+				(path "/de705012-f0fb-4b23-929c-98742aa6def5/9ebb199d-5c8b-41dd-b601-8f5ebc1c419e"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 93.98 30.48)
+		(size 31.75 35.56)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "abfc923a-6dbd-4359-8bdc-eb053d668470")
+		(property "Sheetname" "FPGAIO1"
+			(at 93.98 29.7684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "FPGAIO1.kicad_sch"
+			(at 93.98 66.6246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "risetRadar"
+				(path "/de705012-f0fb-4b23-929c-98742aa6def5/9ebb199d-5c8b-41dd-b601-8f5ebc1c419e"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 119.38 88.9)
+		(size 24.13 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b14eeeae-5e2b-4d23-8a2a-0dc0aa933406")
+		(property "Sheetname" "FTDI"
+			(at 119.38 88.1884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "FTDI.kicad_sch"
+			(at 119.38 109.8046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "risetRadar"
+				(path "/de705012-f0fb-4b23-929c-98742aa6def5/9ebb199d-5c8b-41dd-b601-8f5ebc1c419e"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 41.91 31.75)
+		(size 30.48 27.94)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "cbdfcb93-2ed9-4a0a-823d-9c9494a65e68")
+		(property "Sheetname" "FPGA_power"
+			(at 41.91 31.0384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "FPGA_power.kicad_sch"
+			(at 41.91 60.2746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "risetRadar"
+				(path "/de705012-f0fb-4b23-929c-98742aa6def5/9ebb199d-5c8b-41dd-b601-8f5ebc1c419e"
+					(page "3")
+				)
+			)
+		)
+	)
+)
