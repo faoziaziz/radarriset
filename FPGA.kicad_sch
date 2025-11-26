@@ -49,7 +49,7 @@
 	)
 	(sheet
 		(at 54.61 86.36)
-		(size 43.18 22.86)
+		(size 24.13 22.86)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -174,7 +174,7 @@
 		)
 	)
 	(sheet
-		(at 119.38 88.9)
+		(at 95.25 86.36)
 		(size 24.13 20.32)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -190,7 +190,7 @@
 		)
 		(uuid "b14eeeae-5e2b-4d23-8a2a-0dc0aa933406")
 		(property "Sheetname" "FTDI"
-			(at 119.38 88.1884 0)
+			(at 95.25 85.6484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -199,7 +199,7 @@
 			)
 		)
 		(property "Sheetfile" "FTDI.kicad_sch"
-			(at 119.38 109.8046 0)
+			(at 95.25 107.2646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -253,6 +253,48 @@
 			(project "risetRadar"
 				(path "/de705012-f0fb-4b23-929c-98742aa6def5/9ebb199d-5c8b-41dd-b601-8f5ebc1c419e"
 					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 139.7 81.28)
+		(size 31.75 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f5c302d6-1a10-4db5-9ca8-a3ab640f222b")
+		(property "Sheetname" "adc"
+			(at 139.7 80.5684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "adc.kicad_sch"
+			(at 139.7 107.2646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "risetRadar"
+				(path "/de705012-f0fb-4b23-929c-98742aa6def5/9ebb199d-5c8b-41dd-b601-8f5ebc1c419e"
+					(page "9")
 				)
 			)
 		)

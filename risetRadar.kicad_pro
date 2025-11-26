@@ -693,6 +693,10 @@
     [
       "b14eeeae-5e2b-4d23-8a2a-0dc0aa933406",
       "FTDI"
+    ],
+    [
+      "f5c302d6-1a10-4db5-9ca8-a3ab640f222b",
+      "adc"
     ]
   ],
   "text_variables": {}
